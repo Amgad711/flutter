@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880850190734",
+    "project_id": "semapp-c69ca",
+    "storage_bucket": "semapp-c69ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880850190734:android:b9c8a23a84836eff86e4df",
+        "android_client_info": {
+          "package_name": "sqs.semApp.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYC2rUuQqPFXWSRTzIoFH2Ji8FZtC18vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
